@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @JamSamPal
-- 👀 I’m interested in physics, data science and large deviation theory.
-- 🌱 I’m currently self-studying pytorch.
+- 👀 I’m interested in numerical modelling.
 - 💞️ I’m looking to collaborate on anything!
 
 <!---
