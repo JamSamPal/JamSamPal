@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JamSamPal
-- 👀 I’m interested in numerical modelling and machine learning
+- 👀 I’m interested in numerical modelling, machine learning and AI
     - https://github.com/JamSamPal/JamSamPal/blob/main/Machine_Learning_for_the_eager_theorist.pdf
 - 💞️ I’m looking to collaborate on anything!
 
